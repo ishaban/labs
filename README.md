@@ -1,2 +1,2 @@
-# labs
+# Labs
 DataDriven Labs repository
